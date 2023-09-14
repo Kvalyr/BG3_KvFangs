@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="8" build="3"/>
+    <region id="CharacterCreationSharedVisuals">
+        <node id="root">
+            <children>
+
+                <!-- ================ -->
+                <!-- Fangs -->
+                <!-- ================ -->
+                <!-- Cazador Fangs - Unassigned Slot -->
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc17b63f2g912ag4e22g8552g2e3a7f8c9975" version="1"/>
+                    <attribute id="SlotName" type="FixedString" value="Unassigned"/>
+                    <attribute id="UUID" type="guid" value="68b31876-a03f-4ebe-97a9-b532a12612ae"/>
+                    <attribute id="VisualResource" type="guid" value="15732179-4630-40f0-826d-934b87a3ebd4"/>
+                </node>
+
+                <!-- Astarion Fangs - Unassigned Slot -->
+                <!-- Mods.KvMisc.customvisual("bf4980d6-e1b1-4dfe-9247-472245f8d17f") -->
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc17b63f2g912ag4e22g8552g2e3a7f8c9975" version="1"/>
+                    <attribute id="SlotName" type="FixedString" value="Unassigned"/>
+                    <attribute id="UUID" type="guid" value="bf4980d6-e1b1-4dfe-9247-472245f8d17f"/>
+                    <attribute id="VisualResource" type="guid" value="052a957e-1b68-4199-8407-8743b35743dd"/>
+                </node>
+
+                <!-- Tiefling_M_A Fangs - Unassigned Slot -->
+                <!-- Mods.KvMisc.customvisual("a1402735-3e99-4186-8b82-d2e5a1d8e70c") -->
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc17b63f2g912ag4e22g8552g2e3a7f8c9975" version="1"/>
+                    <attribute id="SlotName" type="FixedString" value="Unassigned"/>
+                    <attribute id="UUID" type="guid" value="a1402735-3e99-4186-8b82-d2e5a1d8e70c"/>
+                    <attribute id="VisualResource" type="guid" value="0363aafa-23cf-4e65-ac0b-aa7cb6441bc1"/>
+                </node>
+
+                <!-- Tiefling_M_Rolan Fangs - Unassigned Slot -->
+                <!-- Mods.KvMisc.customvisual("96a0a712-44b9-443a-ace4-a1aca70f4975") -->
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc17b63f2g912ag4e22g8552g2e3a7f8c9975" version="1"/>
+                    <attribute id="SlotName" type="FixedString" value="Unassigned"/>
+                    <attribute id="UUID" type="guid" value="96a0a712-44b9-443a-ace4-a1aca70f4975"/>
+                    <attribute id="VisualResource" type="guid" value="8ee9b3d4-4b86-4c49-a820-51dd53ec86e7"/>
+                </node>
+
+                <!-- Tiefling_F_A Fangs - Unassigned Slot -->
+                <!-- Mods.KvMisc.customvisual("efd07c38-a171-4009-9860-2face607edc8") -->
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc17b63f2g912ag4e22g8552g2e3a7f8c9975" version="1"/>
+                    <attribute id="SlotName" type="FixedString" value="Unassigned"/>
+                    <attribute id="UUID" type="guid" value="efd07c38-a171-4009-9860-2face607edc8"/>
+                    <attribute id="VisualResource" type="guid" value="fe713a72-6537-4c33-bfad-8de13a950bef"/>
+                </node>
+
+                <!-- Tiefling_F_Karlach Fangs - Unassigned Slot -->
+                <!-- Mods.KvMisc.customvisual("3938183a-fb09-4165-b8ca-138f4cc7696f") -->
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc17b63f2g912ag4e22g8552g2e3a7f8c9975" version="1"/>
+                    <attribute id="SlotName" type="FixedString" value="Unassigned"/>
+                    <attribute id="UUID" type="guid" value="3938183a-fb09-4165-b8ca-138f4cc7696f"/>
+                    <attribute id="VisualResource" type="guid" value="f26d60ea-dde1-4f16-902f-08104e7dd459"/>
+                </node>
+
+                <!-- Male Combo - Cazador + Tiefling -->
+                <!--
+                Mods.KvMisc.customvisual("a1402735-3e99-4186-8b82-d2e5a1d8e70c")
+                Mods.KvMisc.customvisual("68b31876-a03f-4ebe-97a9-b532a12612ae")
+                -->
+
+                <!-- ================ -->
+                <!-- Horns -->
+                <!-- ================ -->
+                <!-- ==== Rhol the Despoiler -->
+                <!-- Rhol Object UUID: 1dd894e0-73fb-4a5f-a698-939df72a4c09 -->
+                <!-- Rhol visuals: c7d58531-302b-0f5c-1111-ea16813106a1 -->
+                <!-- Rhol templatename: 2248d9d1-581a-4d39-989c-2d6110585f7c -->
+                <!-- Rhol hair: df3b391b-00bb-34e5-b15d-455d85064a91 -->
+                <!-- Rhol Horns: eef63430-95a6-df3c-658f-506b2104b695 -->
+
+                <!-- Rhol the Despoiler's Horns - Unassigned Slot -->
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h240a2bd9g529fg461fgaab6g769817818381" version="1"/>
+                    <attribute id="SlotName" type="FixedString" value="Unassigned"/>
+                    <attribute id="UUID" type="guid" value="571fdc8a-e37d-4909-8a02-a8b02b5f495d"/>
+                    <attribute id="VisualResource" type="guid" value="eef63430-95a6-df3c-658f-506b2104b695"/>
+                </node>
+
+                <!-- ==== Karlach the Wholesome -->
+                <!-- Horns: 7e70991e-3b8d-8024-03fe-44c8861a46dd -->
+                <!-- Hair: 64353510-71a0-6d39-45d5-976adc5bafc3 -->
+
+                <!-- Karlach's Horns - Unassigned Slot -->
+                <node id="CharacterCreationSharedVisual">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h240a2bd9g529fg461fgaab6g769817818381" version="1"/>
+                    <attribute id="SlotName" type="FixedString" value="Unassigned"/>
+                    <attribute id="UUID" type="guid" value="aa1ab644-3e21-4503-91c0-4bc6d2a953bc"/>
+                    <attribute id="VisualResource" type="guid" value="7e70991e-3b8d-8024-03fe-44c8861a46dd"/>
+                </node>
+
+                <!-- ================ -->
+                <!-- Tails -->
+                <!-- ================ -->
+
+                <!-- ================ -->
+                <!-- Hair -->
+                <!-- ================ -->
+
+                <!-- ================ -->
+                <!-- Heads -->
+                <!-- ================ -->
+
+
+
+            </children>
+        </node>
+    </region>
+</save>
